@@ -30,7 +30,7 @@ Vercel, Railway, Ubuntu VPS, nginx, Cloudflare
 ## Recent Work
 
 **Data Science & ML**  
-Finalist at Élysée Presidential Hackathon (850+ participants) — Built predictive platform for public health optimization using Prophet, Ridge regression, and Monte Carlo simulations
+Finalist at Élysée Presidential Hackathon (850+ participants. Built predictive platform for public health optimization using Prophet, Ridge regression, and Monte Carlo simulations
 
 **Full-Stack Development**  
 Web applications with authentication, real-time features, and responsive interfaces using MERN stack
